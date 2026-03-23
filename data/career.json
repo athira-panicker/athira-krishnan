@@ -1,0 +1,70 @@
+[
+  {
+    "id": "point-taken",
+    "role": "Product Manager",
+    "company": "Point Taken",
+    "location": "Chicago, IL",
+    "period": "Sep 2025 – Present",
+    "type": "Full-Time",
+    "domain": "B2C · Gaming",
+    "summary": "Owned end-to-end product roadmap for a multiplayer dialogue game from user research to market entry.",
+    "highlights": [
+      "Owned end-to-end product roadmap for multiplayer dialogue game launch",
+      "Designed and executed 100+ A/B and UX experiments",
+      "Built real-time analytics dashboards reducing decision time by 30%",
+      "Led sprint planning across engineering, design, and marketing teams"
+    ],
+    "current": true
+  },
+  {
+    "id": "arqaios",
+    "role": "Product Strategist",
+    "company": "Arqaios",
+    "location": "Chicago, IL",
+    "period": "Jun 2025 – Dec 2025",
+    "type": "Contract",
+    "domain": "B2B · SaaS",
+    "summary": "Identified a $120M market opportunity and shaped the business model and GTM strategy, securing $200K in funding.",
+    "highlights": [
+      "Identified $120M market opportunity through research and competitive analysis",
+      "Increased sprint velocity by 80% via prioritized roadmap",
+      "Drove 4x increase in B2B customer acquisition",
+      "Secured $200K in funding through investor narrative and financial modeling"
+    ],
+    "current": false
+  },
+  {
+    "id": "alstom",
+    "role": "Product Lead",
+    "company": "Alstom",
+    "location": "India",
+    "period": "Mar 2021 – Jul 2024",
+    "type": "Full-Time",
+    "domain": "Enterprise · Rail Tech",
+    "summary": "Led enterprise product suite launch across 3 international markets, driving 10x adoption and 80% cost reduction.",
+    "highlights": [
+      "Launched enterprise product suite eliminating external tool dependency",
+      "Reduced software procurement costs by 80%",
+      "Rolled out across Denmark, Spain, and India with 60% efficiency gain",
+      "Drove 10x product adoption through enablement initiatives",
+      "Engineered rule-based ELT pipeline in C# improving delivery speed by 40%"
+    ],
+    "current": false
+  },
+  {
+    "id": "northwestern",
+    "role": "MS in Engineering Management",
+    "company": "Northwestern University",
+    "location": "Evanston, IL",
+    "period": "Sep 2024 – Dec 2025",
+    "type": "Education",
+    "domain": "GPA: 4.0 / 4.0",
+    "summary": "Master's degree with perfect GPA, focusing on product strategy, engineering management, and emerging tech.",
+    "highlights": [
+      "Perfect 4.0 GPA",
+      "Focus on product strategy and engineering management",
+      "AI & Emerging Tech specialization"
+    ],
+    "current": false
+  }
+]

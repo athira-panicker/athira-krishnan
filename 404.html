@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 · Athira Unnikrishnan</title>
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="css/tokens.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/nav.css" />
+  <style>
+    .not-found {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: var(--space-8);
+    }
+    .not-found-number {
+      font-family: var(--font-display);
+      font-size: clamp(6rem, 20vw, 14rem);
+      font-weight: 400;
+      line-height: 1;
+      color: var(--paper-warm);
+      letter-spacing: -0.05em;
+      margin-bottom: var(--space-4);
+      -webkit-text-stroke: 2px var(--rule);
+    }
+    .not-found-title {
+      font-family: var(--font-display);
+      font-size: var(--text-2xl);
+      font-weight: 400;
+      color: var(--ink);
+      margin-bottom: var(--space-4);
+    }
+    .not-found-desc {
+      color: var(--ink-muted);
+      font-size: var(--text-base);
+      margin-bottom: var(--space-8);
+    }
+  </style>
+</head>
+<body>
+  <header id="site-nav" class="site-nav scrolled"></header>
+  <div class="not-found">
+    <div>
+      <div class="not-found-number">404</div>
+      <h1 class="not-found-title">Page not found</h1>
+      <p class="not-found-desc">This page shipped to production but never arrived.</p>
+      <a href="index.html" class="btn btn-primary">Back to Home</a>
+    </div>
+  </div>
+  <script type="module">
+    import { buildNav } from './components/nav.js';
+    buildNav('site-nav');
+  </script>
+</body>
+</html>

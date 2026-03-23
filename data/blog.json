@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ai-agents-product-management",
+    "title": "How AI Agents Are Reshaping the Product Manager's Toolkit",
+    "slug": "ai-agents-product-management",
+    "category": "AI & Product",
+    "subcategory": "Emerging Tech",
+    "date": "2025-03-10",
+    "readTime": "6 min",
+    "excerpt": "LLM-powered workflows are changing how PMs think about automation, experimentation, and decision-making. Here's what I've learned building with AI agents firsthand.",
+    "featured": true,
+    "tags": ["AI", "Product Management", "LLMs", "Automation"],
+    "content": "blog/ai-agents-product-management.md"
+  },
+  {
+    "id": "ab-testing-game-mechanics",
+    "title": "Running 100+ A/B Tests: Lessons from a Dialogue Game",
+    "slug": "ab-testing-game-mechanics",
+    "category": "Growth & Experimentation",
+    "subcategory": "A/B Testing",
+    "date": "2025-02-18",
+    "readTime": "8 min",
+    "excerpt": "What happens when you run over a hundred experiments on a single product? A deep dive into our experimentation framework at Point Taken.",
+    "featured": true,
+    "tags": ["A/B Testing", "Experimentation", "Gaming", "UX"],
+    "content": "blog/ab-testing-game-mechanics.md"
+  },
+  {
+    "id": "gtm-b2b-startup",
+    "title": "From Zero to 5 Enterprise Clients: A B2B GTM Playbook",
+    "slug": "gtm-b2b-startup",
+    "category": "Strategy",
+    "subcategory": "Go-To-Market",
+    "date": "2025-01-22",
+    "readTime": "7 min",
+    "excerpt": "How bundled pricing and cost-sharing strategy helped us 4x customer acquisition at Arqaios — and what I'd do differently.",
+    "featured": false,
+    "tags": ["GTM", "B2B", "Pricing", "Sales"],
+    "content": "blog/gtm-b2b-startup.md"
+  },
+  {
+    "id": "enterprise-product-launch-global",
+    "title": "Launching an Enterprise Product Across 3 Countries Simultaneously",
+    "slug": "enterprise-product-launch-global",
+    "category": "Product",
+    "subcategory": "Launches",
+    "date": "2024-11-05",
+    "readTime": "9 min",
+    "excerpt": "The hidden complexity of localization, stakeholder alignment, and change management when rolling out to Denmark, Spain, and India at once.",
+    "featured": false,
+    "tags": ["Enterprise", "International", "Launch", "Alstom"],
+    "content": "blog/enterprise-product-launch-global.md"
+  },
+  {
+    "id": "data-driven-prioritization",
+    "title": "Stop Guessing: A Framework for Data-Driven Backlog Prioritization",
+    "slug": "data-driven-prioritization",
+    "category": "Product",
+    "subcategory": "Frameworks",
+    "date": "2024-09-14",
+    "readTime": "5 min",
+    "excerpt": "How I combine JTBD, VoC signals, and quantitative scoring to ruthlessly prioritize what ships next.",
+    "featured": false,
+    "tags": ["Backlog", "Prioritization", "JTBD", "Frameworks"],
+    "content": "blog/data-driven-prioritization.md"
+  },
+  {
+    "id": "market-sizing-real-world",
+    "title": "Market Sizing Without the MBA Jargon",
+    "slug": "market-sizing-real-world",
+    "category": "Strategy",
+    "subcategory": "Market Research",
+    "date": "2024-08-01",
+    "readTime": "6 min",
+    "excerpt": "A practitioner's guide to sizing markets that actually informs decisions — not just slides for investors.",
+    "featured": false,
+    "tags": ["Market Sizing", "Research", "Strategy"],
+    "content": "blog/market-sizing-real-world.md"
+  }
+]

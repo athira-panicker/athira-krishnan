@@ -1,0 +1,68 @@
+/* ============================================================
+   PROJECTS PAGE EXTRAS — css/projects.css
+   ============================================================ */
+
+.projects-full-grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.project-full-card {
+  background: var(--white);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  padding: var(--space-10);
+  transition: box-shadow var(--duration-base) var(--ease-out),
+              border-color var(--duration-base);
+}
+
+.project-full-card:hover {
+  box-shadow: var(--shadow-lg);
+  border-color: var(--ink-muted);
+}
+
+.project-full-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-8);
+  margin-bottom: var(--space-6);
+  flex-wrap: wrap;
+}
+
+.project-full-title {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  margin-top: var(--space-2);
+  line-height: 1.2;
+}
+
+.project-full-metrics {
+  display: flex;
+  gap: var(--space-8);
+  flex-shrink: 0;
+}
+
+.metric-block {
+  text-align: right;
+}
+
+.project-full-desc {
+  font-size: var(--text-base);
+  color: var(--ink-muted);
+  line-height: 1.7;
+  max-width: 700px;
+  margin-bottom: var(--space-6);
+  font-weight: 300;
+}
+
+@media (max-width: 640px) {
+  .project-full-header { flex-direction: column; }
+  .project-full-metrics { flex-direction: row; gap: var(--space-6); }
+  .metric-block { text-align: left; }
+  .project-full-card { padding: var(--space-6); }
+}

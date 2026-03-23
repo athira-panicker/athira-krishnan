@@ -1,0 +1,26 @@
+/* ============================================================
+   CAREER PAGE EXTRAS — css/career.css
+   ============================================================ */
+
+.edu-card {
+  background: var(--white);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-md);
+  padding: var(--space-6) var(--space-8);
+  transition: box-shadow var(--duration-base), border-color var(--duration-base);
+}
+
+.edu-card:hover {
+  box-shadow: var(--shadow-md);
+  border-color: var(--ink-muted);
+}
+
+/* Tight timeline on mobile */
+@media (max-width: 640px) {
+  .timeline {
+    padding-left: var(--space-6);
+  }
+  .timeline-dot {
+    left: calc(-1 * var(--space-6) + 3px);
+  }
+}

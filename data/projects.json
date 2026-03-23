@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dialogue-game",
+    "title": "Multiplayer Dialogue Game",
+    "company": "Point Taken",
+    "category": "B2C · Gaming",
+    "year": "2025",
+    "description": "End-to-end product roadmap for a multiplayer dialogue game. Designed and executed 100+ A/B and UX experiments, driving a 25% improvement in intended user impact metrics.",
+    "tags": ["A/B Testing", "GTM Strategy", "Agile", "Analytics"],
+    "metrics": [
+      { "value": "100+", "label": "Experiments Run" },
+      { "value": "25%", "label": "Improvement in Impact" },
+      { "value": "30%", "label": "Faster Decisions" }
+    ],
+    "featured": true,
+    "color": "#f5f0e8"
+  },
+  {
+    "id": "arqaios-gtm",
+    "title": "B2B GTM & Market Strategy",
+    "company": "Arqaios",
+    "category": "B2B · SaaS",
+    "year": "2025",
+    "description": "Identified a $120M market opportunity through user research and competitive analysis, directly shaping the business model and go-to-market strategy. Secured $200K in funding.",
+    "tags": ["Market Sizing", "Financial Modeling", "B2B", "Fundraising"],
+    "metrics": [
+      { "value": "$120M", "label": "Market Opportunity" },
+      { "value": "4x", "label": "Customer Acquisition" },
+      { "value": "$200K", "label": "Funding Secured" }
+    ],
+    "featured": true,
+    "color": "#e8f0f5"
+  },
+  {
+    "id": "alstom-enterprise",
+    "title": "Enterprise Product Suite Launch",
+    "company": "Alstom",
+    "category": "Enterprise · B2B",
+    "year": "2021–2024",
+    "description": "Spearheaded launch of an enterprise product suite across 3 international markets (Denmark, Spain, India), eliminating external tool dependency and reducing procurement costs by 80%.",
+    "tags": ["Enterprise", "International", "ELT Pipeline", "C#"],
+    "metrics": [
+      { "value": "80%", "label": "Cost Reduction" },
+      { "value": "10x", "label": "Product Adoption" },
+      { "value": "3", "label": "Global Markets" }
+    ],
+    "featured": true,
+    "color": "#f0f5e8"
+  }
+]

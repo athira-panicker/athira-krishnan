@@ -1,0 +1,47 @@
+{
+  "name": "Athira Unnikrishnan",
+  "title": "Product Manager",
+  "tagline": "I build products that move markets.",
+  "bio": "Results-driven PM with 5+ years delivering end-to-end product development across enterprise, B2B, and B2C. I translate user research and market insights into strategies that drive adoption, revenue, and efficiency.",
+  "email": "athira.krishnan0526@gmail.com",
+  "phone": "(872) 325-8228",
+  "location": "Chicago, IL",
+  "linkedin": "https://linkedin.com/in/athira-uk",
+  "github": "",
+  "skills": {
+    "Product": ["Roadmap Planning", "Backlog Prioritization", "A/B Testing", "GTM Strategy", "VoC", "JTBD", "PLG", "Sprint Planning"],
+    "Data": ["Python", "SQL", "Tableau", "Looker", "Google Analytics", "Jupyter"],
+    "Tools": ["Jira", "Figma", "Notion", "Miro", "Confluence", "Webflow", "Framer"],
+    "AI": ["AI Agents", "LLM Integration", "Prompt Engineering", "Workflow Automation"]
+  },
+  "education": [
+    {
+      "degree": "MS in Engineering Management",
+      "school": "Northwestern University",
+      "year": "2024–2025",
+      "gpa": "4.0 / 4.0"
+    },
+    {
+      "degree": "BS in Computer Engineering",
+      "school": "University of Calicut",
+      "year": "2014–2018"
+    }
+  ],
+  "nav": [
+    { "label": "Work", "href": "pages/projects.html" },
+    { 
+      "label": "Product", 
+      "href": "pages/blog.html",
+      "submenu": [
+        { "label": "All Posts", "href": "pages/blog.html" },
+        { "label": "AI & Product", "href": "pages/blog.html?cat=AI+%26+Product" },
+        { "label": "Growth & Experimentation", "href": "pages/blog.html?cat=Growth+%26+Experimentation" },
+        { "label": "Strategy", "href": "pages/blog.html?cat=Strategy" },
+        { "label": "Frameworks", "href": "pages/blog.html?cat=Product" }
+      ]
+    },
+    { "label": "Career", "href": "pages/career.html" },
+    { "label": "About", "href": "pages/about.html" },
+    { "label": "Contact", "href": "#contact" }
+  ]
+}
